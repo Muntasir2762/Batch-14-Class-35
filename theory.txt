@@ -1,0 +1,25 @@
+
+
+1. Find a given number is odd/even;
+2. Find a given number is positive/nrgative;
+3. Find the grades of given marks using the array;
+4. Find the larger number from the given numbers (two);
+
+
+
+============CRUD==========
+1. CREATE
+2. READ
+3. UPDATE
+4. DELETE
+
+70-80%=>CRUD + 20%=>Business Logic
+
+=======Block Chain=====
+=========AI============
+=========ML============
+
+Web-2.0
+Web-3.0
+
+Crypto Currency
